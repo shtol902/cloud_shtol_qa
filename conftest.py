@@ -8,6 +8,6 @@ from selenium import webdriver
 def driver():
     driver = webdriver.Chrome()
     driver.maximize_window()
-    driver.get(Url.MAIN_PAGE)
+    driver.get(Url.CAREER_PAGE)
     yield driver
     driver.quit()

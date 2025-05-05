@@ -1,3 +1,3 @@
 class Url:
-    MAIN_PAGE = "https://campcloud.ru/"
+    BOOTCAMP_PAGE = "https://cloud.ru/career/bootcamp"
     CAREER_PAGE = "https://cloud.ru/career"
